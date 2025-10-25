@@ -48,5 +48,5 @@ Deleted Lambda function and API Gateway to avoid costs.
 
 ## 👨‍💻 Author
 **Srushti Jade**  
-B.Tech ECE | Cloud & Cybersecurity Enthusiast
+B.Tech ECE | Cloud & Devops Enthusiast
 
